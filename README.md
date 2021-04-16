@@ -1,6 +1,7 @@
 ### Heya 👋
 
-I'm a guy who when put to work on a website will do work that seems mostly "invisible". However user happiness keeps going up while I work on the site.
+I'm a guy who when put to work on a website will do work that seems mostly "invisible".<br>
+However user happiness keeps going up while I work on the site.
 
 Currently working on `vr.fi`, previously worked on creating a new `verkkokauppa.com` site and checkout.
 
