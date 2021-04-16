@@ -17,4 +17,4 @@ Also would love to get started with a game. Turn based strategy mixing Heroes II
 
 ----
 
-Btw: most of my stuff here on GitHub has now been outdated by the changing times. For example no much need for `react-lazy` since you can just do `<img loading="lazy" />`.
+Btw: most of my stuff here on GitHub has now been outdated by the changing times. For example no much need for `react-lazy` since you can just do `<img loading="lazy" />`. What can we learn from this? JavaScript code in Front End becomes outdated, but HTML and CSS keep on living. Maybe we should work more on just HTML and CSS, and less on JS since it is the short-lived solution until standards make things possible without JS.
