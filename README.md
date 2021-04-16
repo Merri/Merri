@@ -13,3 +13,7 @@ Outside work and programming I'm interested in:
 - Modding games
 
 Also would love to get started with a game. Turn based strategy mixing Heroes III, Total War, Final Fantasy, and the Settlers II.
+
+----
+
+Btw: most of my stuff here on GitHub has now been outdated by the changing times. For example no much need for `react-lazy` since you can just do `<img loading="lazy" />`.
