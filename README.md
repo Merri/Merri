@@ -4,7 +4,7 @@ Me? A programmer with ~20 years hobbyist, and 8+ years professional experience.<
 Gone through various platforms and multiple languages.<br>
 I love to specialize in web front-end. User experience first, web standards first.<br>
 If you can solve it without JavaScript, you should solve it without JavaScript.<br>
-Hot take: I've had to write way more JS/TS than I should during ~5 years.
+Hot take: I've had to write way more JS/TS than I should during past ~5 years.
 
 Most of what I do is "invisible". Sites I work on see user happiness go up.
 
