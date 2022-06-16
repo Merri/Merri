@@ -7,6 +7,9 @@ I love to specialize in web front-end. User experience and web standards first.<
 My magic touch? User happiness goes up on every site I work on.<br >
 (Also correlates with conversion metrics, but human metrics are more desirable.)
 
+I'm also autistic, so I fight the battle of getting my message across to the neurotypical majority.<br>
+My thinking is different, innovative, sometimes way ahead of the curve.
+
 Currently working on `vr.fi`. Previously worked on `verkkokauppa.com` customer facing site and checkout.
 
 > **Free tip for great front-end!**<br />
