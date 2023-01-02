@@ -26,6 +26,8 @@ I have multiple GitHub projects on [Astro](https://astro.build):
 - [Settlers II.net](https://github.com/Merri/settlers2) (needs to be SSR'd at some point)
 - [Merri.net](https://github.com/Merri/merri.net)
 
+A lot of my stuff here on GitHub has now been outdated by the changing times. For example no more need for `react-lazy` since you can just do `<img loading="lazy" />`. What can we learn from this? JavaScript code for the front-end becomes outdated, but HTML and CSS keep on living. Maybe we should work more on just HTML and CSS, and less on JS since it is the short-lived solution until standards make things possible without JS.
+
 ---
 
 Outside work and programming I'm interested in:
@@ -39,7 +41,3 @@ Outside work and programming I'm interested in:
 - Modding games
 
 And during summer I sometimes do garden stuff.
-
----
-
-A lot of my stuff here on GitHub has now been outdated by the changing times. For example no more need for `react-lazy` since you can just do `<img loading="lazy" />`. What can we learn from this? JavaScript code for the front-end becomes outdated, but HTML and CSS keep on living. Maybe we should work more on just HTML and CSS, and less on JS since it is the short-lived solution until standards make things possible without JS.
