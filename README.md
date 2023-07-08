@@ -1,6 +1,6 @@
 ## Hello 👋
 
-Me? A programmer with ~20 years hobbyist, and 9+ years professional experience.<br>
+Me? A programmer with ~20 years hobbyist, and 10+ years professional experience.<br>
 Gone through various platforms and multiple languages, like VB, C, PHP, SQL, React.<br>
 I love to specialize in web front-end. User experience and web standards first.<br>
 
