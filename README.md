@@ -10,7 +10,7 @@ I love Astro and any other new framework which ditches throwing client-side exec
 
 The things I do tend to be ahead of the curve, sometimes by years. Which means I'm two things: a continuous learner and autistic.
 
-Currently working on `vr.fi`, contributed a lot to the Junat kartalla service.
+Currently working on `vr.fi`, for example contributed a lot to the [Junat kartalla service (live train tracker map)](https://www.vr.fi/en/live-train-tracker-map).
 
 [Check my homepage](https://vesa.piittinen.name) for a blog on web development and lots of other cool stuff.
 
