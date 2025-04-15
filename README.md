@@ -6,13 +6,11 @@ Me + websites I work on = positive effects on all the metrics.
 > If you can solve it without JavaScript, you should solve it without JavaScript.<br />
 > Progressive enhancement is better than depending on JS.
 
-I love Astro and any other new framework which ditches throwing client-side executed JavaScript at every problem.
-
-The things I do tend to be ahead of the curve, sometimes by years. Which means I'm two things: a continuous learner and autistic.
+I like Astro or any other new framework which ditches throwing client-side executed JavaScript at every problem.
 
 Currently working on `vr.fi`, for example contributed a lot to the [Junat kartalla service (live train tracker map)](https://www.vr.fi/en/live-train-tracker-map).
 
-[Check my homepage](https://vesa.piittinen.name) for a blog on web development and lots of other cool stuff.
+[Check my homepage](https://vesa.piittinen.name) for a blog on web development and lots of other mildly interesting stuff.
 
 ---
 
